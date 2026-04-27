@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="35a3fb7b-3cfe-489c-bb65-f32b1265004b" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/Link_shortener_new.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dockerfile" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/compose.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nlp/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nlp/application/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nlp/application/errors.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nlp/application/interactors/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nlp/application/interactors/project.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nlp/application/interactors/tasks.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nlp/application/interactors/user.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nlp/application/interfaces/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nlp/application/interfaces/repositories/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nlp/application/interfaces/repositories/user.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nlp/application/interfaces/services/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nlp/application/interfaces/services/password.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nlp/application/interfaces/uow.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nlp/container.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nlp/domain/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nlp/domain/entities/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nlp/domain/entities/project.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nlp/domain/entities/task.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nlp/domain/entities/user.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nlp/domain/errors.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nlp/infra/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nlp/interfaces/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nlp/main.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 3
+}</component>
+  <component name="ProjectId" id="3CoP9ZR6oBpcwhXg1wsF7PKGKRN" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "git-widget-placeholder": "main",
+    "last_opened_file_path": "C:/GitProjects/Link_Shortener_new/Link_shortener_new",
+    "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\GitProjects\Link_Shortener_new\Link_shortener_new\nlp\domain\entities" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="35a3fb7b-3cfe-489c-bb65-f32b1265004b" name="Changes" comment="" />
+      <created>1777048798804</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1777048798804</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+</project>
